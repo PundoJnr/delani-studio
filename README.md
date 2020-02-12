@@ -1,7 +1,7 @@
 # delani-studio
 -------
-About
+##About
 A Moringa School assigment to test for prep knowledge on HTML, CSS and JS
   
-Link
+##Link
 Access the page on [delani studios]()  
