@@ -3,7 +3,7 @@ body {
 }
 
 .carousel-caption {
-    bottom: 20px;
+    /* bottom: 20px;*/
 }
 
 @keyframes scroll {
